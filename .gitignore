@@ -53,10 +53,11 @@ CodeCoverage/
 
 # NUnit
 *.VisualState.xml
-TestResult.xml
+TestResult.xml  
 nunit-*.xml
 
 # FEATURES
 
 FEATURE.md
 **.instructions.md
+**.Instrucoes.md
